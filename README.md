@@ -1,12 +1,12 @@
 # mta-multilife
-Gamemod RP do gry Multi Theft Auto, napisany głównie w języku LUA, w oparciu o bazę danych MySQL.
+Gamemod RP/RPG do gry Multi Theft Auto, napisany głównie w języku LUA, w oparciu o bazę danych MySQL.
 
 ## Dlaczego ten kod został udostępiony?
 1. Aby oddać go dla otwartej społeczności MTA.
 2. Aby pobudzić scenę serwerów w MTA, ukrócić wykorzystywanie nielegalnego, kradzionego kodu krążącego po sieci.
 3. Aby ściągnąć więcej graczy do MTA.
 ## Zawartość repozytorium
-1. Kod serera
+1. Kod serwera
 2. Baza danych (MySQL)
 3. Plik ACL, i mtaserver.conf
 ## W repozytorium nie ma:
@@ -22,3 +22,5 @@ Gamemod RP do gry Multi Theft Auto, napisany głównie w języku LUA, w oparciu 
 ###### Mapy Interiorów (wszystkie) [25 PLN]
 ###### Mapy Interiorów (wszystkie zakodowane) [15 PLN]
 ###### Wszystko + Support w instalacji + Odkodowane [100 PLN]
+###### Dedykowany styl na forum MyBB, (dopasowany, dużo możliwościedycji) [125 PLN - 150 PLN] (!!! Możliwa edcyja w cenie 150 PLN !!!)
+###### Support z naszej strony (do ustalenia co i w czym trzeba pomóc)[od 5 PLN - 20 PLN]

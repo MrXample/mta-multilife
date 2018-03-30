@@ -24,7 +24,7 @@ Gamemod RP/RPG do gry Multi Theft Auto, napisany głównie w języku LUA, w opar
 ###### Wszystko + Support w instalacji + Odkodowane [100 PLN]
 ###### Dedykowany styl na forum MyBB, (dopasowany, dużo możliwości edycji) [125 PLN - 150 PLN] (!!! Możliwa edcyja w cenie 150 PLN !!!)
 ###### Support z naszej strony (do ustalenia co i w czym trzeba pomóc)[od 5 PLN - 20 PLN]
-### Błędy proszę zgłaszać tylko i wyłącznie na GitHub'ie. Wiadomość z e-mail'a będą IGNOROWANE !!!
+#### Błędy proszę zgłaszać tylko i wyłącznie na GitHub'ie. Wiadomość z e-mail'a będą IGNOROWANE 
 ## Autorzy :
 1. MrXample <xamlpe.developer@gmail.com>
 2. BossNukeMan <owner@ts-god.pl>
@@ -35,5 +35,5 @@ Prosimy o zachowanie notki autorskiej
 Tak, możecie na podstawie tego utworzyć własny serwer, pamiętajcie jednak, że musicie przestrzegać założeń licencji.
 
 Jeśli wybierzesz licencję GPLv2, to musisz upublicznić wykonane przez siebie zmiany w kodzie. Jeśli wybierzesz licencję MIT, to musisz jedynie zachować informację o prawach autorskich oraz oryginalnych autorach użytego kodu. Wystarczy gdzieś w panelu pomocy (np. F1) wpisać "Korzysta z kodu ML-RPG (link do github'a)." Będzie to wystarczające :)
-# ############# Możesz wykorzystywać dowolny fragment kodu serwera ML-RPG #############
-### ##### Autorzy ##### 
+# Możesz wykorzystywać dowolny fragment kodu serwera ML-RPG
+### Autorzy  

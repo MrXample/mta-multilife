@@ -35,5 +35,5 @@ Prosimy o zachowanie notki autorskiej
 Tak, możecie na podstawie tego utworzyć własny serwer, pamiętajcie jednak, że musicie przestrzegać założeń licencji.
 
 Jeśli wybierzesz licencję GPLv2, to musisz upublicznić wykonane przez siebie zmiany w kodzie. Jeśli wybierzesz licencję MIT, to musisz jedynie zachować informację o prawach autorskich oraz oryginalnych autorach użytego kodu. Wystarczy gdzieś w panelu pomocy (np. F1) wpisać "Korzysta z kodu ML-RPG (link do github'a)." Będzie to wystarczające :)
-# Możesz wykorzystywać dowolny fragment kodu serwera ML-RPG
-### Autorzy  
+## Możesz wykorzystywać dowolny fragment kodu serwera ML-RPG
+### Pozdrawiamy, Autorzy  

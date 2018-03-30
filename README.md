@@ -26,7 +26,7 @@ Gamemod RP/RPG do gry Multi Theft Auto, napisany głównie w języku LUA, w opar
 ###### Support z naszej strony (do ustalenia co i w czym trzeba pomóc)[od 5 PLN - 20 PLN]
 #### Błędy proszę zgłaszać tylko i wyłącznie na GitHub'ie. Wiadomość z e-mail'a będą IGNOROWANE 
 ## Autorzy :
-1. MrXample <xamlpe.developer@gmail.com>
+1. MrXample <xample.developer@gmail.com>
 2. BossNukeMan <owner@ts-god.pl>
 ## Dystrybucja
 Do wyboru masz dwie licencje GPLv2.0 i MIT
